@@ -1,0 +1,63 @@
+#support-icon {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/309/309666.png");
+    background-color: #00BFFF; 
+    height: 80px;
+    width: 80px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    cursor: pointer;
+    border-radius: 50%;
+    background-size: cover;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0); 
+    transition: transform 0.2s ease-out;
+  }
+
+
+  
+  
+  #support-icon:hover {
+    transform: scale(1.1); 
+  }
+  
+  .fa-question-circle {
+    font-size: 24px;
+  }
+
+
+  /* #support-icon {
+    display: grid;
+    align-items: center;
+    background-color: #00BFFF; 
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    cursor: pointer;
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+    transition: transform 0.2s ease-out;
+  }
+  
+  #support-icon:hover {
+    transform: scale(1.1); 
+  } */
+
+  .hover-icon:hover{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #c2e6f2;
+
+
+  }
+
+  
+ 
+  
+
+
+
+  
